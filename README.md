@@ -8,7 +8,7 @@ import 'SoftwareEngineer' from 'harundemir918';
 class Bio extends SoftwareEngineer {
   name       = 'Harun Demir';
   title      = 'Software Engineer | Mobile Developer';
-  aka        = '3N61N33R';
+  alias      = '3N61N33R';
   location   = 'Turkey';
 }
 
