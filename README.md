@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://harundemir.org/assets/images/logo.png" />
+  <img src="https://tenor.com/view/catvibe-gif-18088574" />
 </p>
 
 ```js
