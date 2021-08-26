@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://tenor.com/view/catvibe-gif-18088574" />
+  <img src="https://c.tenor.com/llgchsljWEcAAAAd/catvibe.gif" />
 </p>
 
 ```js
