@@ -14,9 +14,9 @@ class Bio extends SoftwareEngineer {
 }
 
 class Skills extends SoftwareEngineer {
-  languages  = ['Java', 'Python', 'Dart', 'Kotlin', 'PHP'];
+  languages  = ['Dart', 'Kotlin', 'Java', 'PHP'];
   databases  = ['MySQL'];
-  frameworks = ['Flutter', 'CodeIgniter'];
+  frameworks = ['Flutter', 'Laravel'];
 }
 
 class AboutMe extends SoftwareEngineer {
