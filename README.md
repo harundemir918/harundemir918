@@ -19,8 +19,7 @@ import 'SoftwareEngineer' from 'harundemir918';
 class Bio extends SoftwareEngineer {
   name       = 'Harun Demir';
   title      = 'Software Engineer | Mobile Developer';
-  alias      = 'X3N61N33RX';
-  location   = 'Turkey';
+  location   = 'Türkiye';
   website    = 'https://harundemir.org';
 }
 
